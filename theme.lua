@@ -4,7 +4,7 @@
 
 theme = {}
 
-theme.font          = "sans 8"
+theme.font          = "monospace bold 8"
 
 theme.bg_normal     = "#2e3436"
 theme.bg_focus      = "#D3D7CF"
@@ -42,7 +42,7 @@ theme.tasklist_floating_icon = "/home/lucian/.config/awesome/themes/oblivion/tas
 -- menu_[border_color|border_width]
 theme.menu_submenu_icon = "/home/lucian/.config/awesome/themes/oblivion/submenu.png"
 theme.menu_height = "15"
-theme.menu_width  = "100"
+theme.menu_width  = "180"
 
 -- You can add as many variables as
 -- you wish and access them by using
